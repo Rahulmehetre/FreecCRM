@@ -1,0 +1,13 @@
+com\crm\qa\pages\ContactsPage.class
+com\crm\qa\pages\TaskPage.class
+com\crm\qa\pages\HomePage.class
+com\crm\qa\base\ExceptionTest.class
+com\crm\qa\pages\SignUppage.class
+com\crm\qa\pages\LoginPage.class
+com\crm\qa\base\StatementRunner.class
+com\crm\qa\base\ReadExcelFile.class
+com\crm\qa\base\TestBase.class
+com\crm\qa\base\PDFValidation.class
+com\crm\qa\util\TestUtil.class
+com\crm\qa\pages\Dealspage.class
+com\crm\qa\util\WebEventListener.class

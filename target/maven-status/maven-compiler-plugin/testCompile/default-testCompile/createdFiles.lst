@@ -1,0 +1,7 @@
+com\crm\qa\TestCases\ContactsPageTest.class
+com\crm\qa\TestCases\LocatorConcepts.class
+com\crm\qa\TestCases\HomePageTest.class
+com\crm\qa\TestCases\AlertPopuphandle.class
+com\crm\qa\TestCases\LoginPageTest.class
+com\crm\qa\TestCases\HandleFileuploadWindowpopup.class
+com\crm\qa\TestCases\webDriverBasics.class
